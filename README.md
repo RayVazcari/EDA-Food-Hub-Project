@@ -6,9 +6,7 @@
 
 As my first introduction to Data Science, this project not only deepened my understanding of data analytics but also ignited my passion for uncovering insights through data. Throughout this experience, I honed my skills in Exploratory Data Analysis, including Variable Identification, Univariate Analysis, and Bi-Variate Analysis, as well as advanced Python techniques. This accomplishment represents a pivotal step in my career journey, showcasing my ability to tackle complex data problems and deliver impactful solutions. I am excited to continue expanding my skill set and exploring new areas within data science. 🚀
 
-   <p align="left"> 
-     <a href="https://github.com/RayVazcari?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/RayVazcari?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow me on Github &logoColor=white"/></a>
+<p align="left"> 
       <a href="https://www.linkedin.com/in/rayvazcari/">
          <img alt="Linkedin Profile" title="Likedin Profile" src="https://custom-icon-badges.demolab.com/badge/-Linkedin%20Profile-blue?style=for-the-badge&logoColor=white&logo=linkedin"/></a>
       </a>
@@ -23,10 +21,8 @@ As my first introduction to Data Science, this project not only deepened my unde
 <img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
 <img align="left" alt="Plotly" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="left" alt="Raspberry Pi" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" />
 <img align="left" alt="VScode" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Seaborn" width="30px" style="padding-right:10px;" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"  /> 
-<img align="left" alt="Maplotlib" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" />
 
 <br />
 
