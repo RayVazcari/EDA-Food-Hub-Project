@@ -1,16 +1,17 @@
-<h1><center><font size=10>Data Science and Business Analytics</center></font></center></h1>
-<center>Project 1 - Python Foundations: FoodHub</center></h1><p
-<center>Jorge Ramon Vazquez Campero</center></h1>
+<div align="center">
+
+<img src="assets/banner.svg" alt="Project 01: Foodhub Eda" width="100%" />
+
+<a href="https://github.com/RayVazcari"><img src="https://img.shields.io/badge/PORTFOLIO-RayVazcari-ff2a6d?style=for-the-badge&logo=github&logoColor=white&labelColor=07070f" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/rayvazcari/"><img src="https://img.shields.io/badge/LINKEDIN-00F0FF?style=for-the-badge&logo=linkedin&logoColor=07070f&labelColor=07070f&color=00F0FF" alt="LinkedIn" /></a>
+<img src="https://img.shields.io/badge/PYTHON-07070f?style=for-the-badge&logo=python&logoColor=f9f002" alt="Python" />
+<img src="https://img.shields.io/badge/JUPYTER-07070f?style=for-the-badge&logo=jupyter&logoColor=ff2a6d" alt="Jupyter" />
+
+</div>
 
 **`| Exploratory Data Analysis | Variable Identification | Univariate Analysis | Bi-Variate Analysis | Advanced Python techniques |`**
 
 As my first introduction to Data Science, this project not only deepened my understanding of data analytics but also ignited my passion for uncovering insights through data. Throughout this experience, I honed my skills in Exploratory Data Analysis, including Variable Identification, Univariate Analysis, and Bi-Variate Analysis, as well as advanced Python techniques. This accomplishment represents a pivotal step in my career journey, showcasing my ability to tackle complex data problems and deliver impactful solutions. I am excited to continue expanding my skill set and exploring new areas within data science. 🚀
-
-<p align="left"> 
-      <a href="https://www.linkedin.com/in/rayvazcari/">
-         <img alt="Linkedin Profile" title="Likedin Profile" src="https://custom-icon-badges.demolab.com/badge/-Linkedin%20Profile-blue?style=for-the-badge&logoColor=white&logo=linkedin"/></a>
-      </a>
-</p>
 
 ---
 
